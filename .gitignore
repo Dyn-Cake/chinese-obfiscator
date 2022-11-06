@@ -1,3 +1,7 @@
+# Compile it yourself lol
+out/
+
+# Below this line, everything is auto generated (Github node .gitignore preset)
 # Logs
 logs
 *.log
